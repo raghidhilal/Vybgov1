@@ -43,12 +43,12 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'YOUR_API_KEY',
-    appId: 'YOUR_APP_ID',
-    messagingSenderId: 'YOUR_MESSAGING_SENDER_ID',
-    projectId: 'YOUR_PROJECT_ID',
-    authDomain: 'YOUR_AUTH_DOMAIN',
-    storageBucket: 'YOUR_STORAGE_BUCKET',
-    measurementId: 'YOUR_MEASUREMENT_ID',
+    apiKey: 'AIzaSyAiY2mmTtIGzWTOOflXJgBoQPTjZs9GfY0',
+    appId: '1:836911324936:web:14366a57e08a220faa96bd',
+    messagingSenderId: '836911324936',
+    projectId: 'vybgo-c2ee0',
+    authDomain: 'vybgo-c2ee0.firebaseapp.com',
+    storageBucket: 'vybgo-c2ee0.firebasestorage.app',
+    measurementId: 'G-30ZWZQ0T4R',
   );
 }

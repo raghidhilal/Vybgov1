@@ -1,0 +1,21 @@
+node_modules
+
+# Flutter/Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+build/
+**/build/
+.metadata
+pubspec.lock
+
+# IDE/OS
+.idea/
+.vscode/
+.DS_Store
+*.iml
+
+# Secrets
+Database/config.json
